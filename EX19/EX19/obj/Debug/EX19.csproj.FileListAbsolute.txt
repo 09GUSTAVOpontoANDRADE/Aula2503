@@ -1,0 +1,7 @@
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\bin\Debug\EX19.exe.config
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\bin\Debug\EX19.exe
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\bin\Debug\EX19.pdb
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\obj\Debug\EX19.csproj.AssemblyReference.cache
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\obj\Debug\EX19.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\obj\Debug\EX19.exe
+C:\Users\gustavo.handrade2\source\repos\EX19\EX19\obj\Debug\EX19.pdb

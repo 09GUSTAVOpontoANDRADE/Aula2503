@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.handrade2\\source\\repos\\EX14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3199AAD-33C1-45EA-BDBF-2DB3A2615097}|EX14\\EX14.csproj|c:\\users\\gustavo.handrade2\\source\\repos\\ex14\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3199AAD-33C1-45EA-BDBF-2DB3A2615097}|EX14\\EX14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.handrade2\\source\\repos\\EX14\\EX14\\Program.cs",
+              "RelativeDocumentMoniker": "EX14\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.handrade2\\source\\repos\\EX14\\EX14\\Program.cs",
+              "RelativeToolTip": "EX14\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T18:14:00.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

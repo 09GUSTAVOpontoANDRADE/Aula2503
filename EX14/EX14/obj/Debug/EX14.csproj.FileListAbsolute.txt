@@ -1,0 +1,7 @@
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\bin\Debug\EX14.exe.config
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\bin\Debug\EX14.exe
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\bin\Debug\EX14.pdb
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\obj\Debug\EX14.csproj.AssemblyReference.cache
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\obj\Debug\EX14.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\obj\Debug\EX14.exe
+C:\Users\gustavo.handrade2\source\repos\EX14\EX14\obj\Debug\EX14.pdb
